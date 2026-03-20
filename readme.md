@@ -47,7 +47,7 @@ Categories will evolve as contributions are added. Early contributors will direc
 - [File Converter](https://github.com/Ayodeji0001/File-Converter)  
   *Tags:* `Web` `PDF` `Converter` `Beginner-Friendly`  
   Convert PDFs to Text, DOCX, Markdown, HTML, SVG, or Images (PNG/JPEG) via a simple web interface.  
-  **Author:** Ayodeji ([@ajodeji0001](https://github.com/ajodeji0001))
+  **Author:** Ayodeji ([@ayodeji0001](https://github.com/ayodeji0001))
 
 ---
 
