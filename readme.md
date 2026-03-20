@@ -3,8 +3,10 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+
 > A curated collection of useful, accessible scripts developed by members of the GLOCAL community.  
 > Focused on simplifying workflows, improving usability, and making tools more accessible across skill levels.
+
 
 ---
 
@@ -22,7 +24,7 @@ You have the opportunity to define the structure—be the first to contribute a 
 
 - [File Converter](https://github.com/Ayodeji0001/File-Converter)  
   Convert PDFs to Text, DOCX, Markdown, HTML, SVG, or Images (PNG/JPEG) through a simple web interface.  
-  **Author:** Ayodeji ([@ajyodeji0001](https://github.com/ajyodeji0001))
+  **Author:** Ayodeji ([@ayodeji0001](https://github.com/ayodeji0001))
 
 ---
 
