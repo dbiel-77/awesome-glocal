@@ -6,7 +6,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 [![GLOCAL](https://img.shields.io/badge/powered%20by-YouCount-yellow)](volunteer.youcount.ca)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](#)
-[![Open Source](https://img.shields.io/badge/open%20source-yes-lightgrey.svg)](#)
 
 > A curated list of useful, accessible scripts built by members of the GLOCAL community.  
 > Focused on simplifying workflows, improving usability, and supporting users across different technical skill levels.
@@ -48,7 +47,7 @@ Categories will evolve as contributions are added. Early contributors will direc
 - [File Converter](https://github.com/Ayodeji0001/File-Converter)  
   *Tags:* `Web` `PDF` `Converter` `Beginner-Friendly`  
   Convert PDFs to Text, DOCX, Markdown, HTML, SVG, or Images (PNG/JPEG) via a simple web interface.  
-  **Author:** Ayodeji ([@ajyodeji0001](https://github.com/ajyodeji0001))
+  **Author:** Ayodeji ([@ajodeji0001](https://github.com/ajodeji0001))
 
 ---
 
